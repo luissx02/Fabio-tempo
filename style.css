@@ -12,7 +12,7 @@ body {
     /* Altura / vh - altura */
     width: 100vw;
     /*  vw - largura */
-    background-image: paisagem-natural.jpg;
+    background-image: url("/.paisagem-natural.jpg");
 }
 .caixa-maior {
     background-color: #000000;/*  Troca cor de fundo  */
